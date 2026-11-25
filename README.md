@@ -46,7 +46,7 @@ Keep the following application components together:
 - `aminbiography-browser.exe`
 - `_internal` folder
 
-![Extracted files: aminbiography-browser.exe and the _internal folder](https://raw.githubusercontent.com/aminbiography/aminbiography-browser/refs/heads/main/Safety-Instructions-Images/01.png)
+![Extracted files: aminbiography-browser.exe and the _internal folder](https://raw.githubusercontent.com/aminbiography/exe-Browser-by-Amein/refs/heads/main/Safety-Instructions-Images/01.png)
 
 **Important:** Do not delete, rename, or move the `_internal` folder or required supporting files.
 
@@ -62,12 +62,12 @@ This can happen because the application is newly published and does not yet have
 
 1. Click **More info** in the SmartScreen warning.
 
-   ![SmartScreen: click More info](https://raw.githubusercontent.com/aminbiography/aminbiography-browser/refs/heads/main/Safety-Instructions-Images/02.png)
+   ![SmartScreen: click More info](https://raw.githubusercontent.com/aminbiography/exe-Browser-by-Amein/refs/heads/main/Safety-Instructions-Images/02.png)
 
 2. Review the application information and publisher details.
 3. If you trust the downloaded application, select **Run anyway** to continue.
 
-   ![SmartScreen: click Run anyway](https://raw.githubusercontent.com/aminbiography/aminbiography-browser/refs/heads/main/Safety-Instructions-Images/03.png)
+   ![SmartScreen: click Run anyway](https://raw.githubusercontent.com/aminbiography/exe-Browser-by-Amein/refs/heads/main/Safety-Instructions-Images/03.png)
 
 **Important security notice:**
 
