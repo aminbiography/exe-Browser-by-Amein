@@ -96,6 +96,374 @@ Aminbiography Browser 2.0 should launch.
 
 ---
 
+## **Project Objective and Research Purpose**
+
+**Repository:** `exe-Browser-by-Amein`  
+**Project:** Aminbiography Browser 2.0  
+**Application:** `aminbiography-browser.exe`  
+**Developer:** Mohammad Aminul Islam ([@aminbiography](https://github.com/aminbiography))
+
+---
+
+### **1. Project Objective**
+
+The primary objective of **Aminbiography Browser 2.0** is to explore, study, understand, and experiment with the technologies, architectures, mechanisms, and operational principles behind modern web browsers and the broader digital ecosystem.
+
+This repository represents an independent, self-directed research and development initiative established for personal technical research, practical experimentation, architectural exploration, and continuous learning.
+
+The project provides an opportunity to investigate how desktop browsers interact with operating systems, browser engines, web technologies, internet infrastructure, websites, search engines, APIs, cloud platforms, and external digital services.
+
+It focuses on understanding the technical relationship between users, browsers, web applications, network communication, data processing, digital security, and online information systems.
+
+Using Python, PySide6, Qt WebEngine, and the underlying Chromium technology as a practical foundation, the project explores browser application development without independently implementing a complete web rendering engine.
+
+The broader objective is to develop practical knowledge of browser engineering, web architecture, internet communication, information security, privacy, and the interconnected technologies that support modern digital experiences.
+
+### **2. Browser Architecture and Engineering Research**
+
+This research area focuses on understanding the internal organization, technical components, and operational architecture of modern browser applications.
+
+Areas of exploration include:
+
+- Fundamental browser architecture and design principles.
+- Browser application layers, components, processes, and dependencies.
+- Relationships between browser interfaces, application logic, and rendering engines.
+- Browser process models, tab management, and session handling.
+- Browser engine integration and third-party framework dependencies.
+- Chromium architecture and Qt WebEngine integration.
+- Browser lifecycle, resource management, and execution environments.
+- Desktop browser application development using Python and PySide6.
+- Application packaging, deployment, configuration, and maintenance.
+- Differences between browser applications and browser rendering engines.
+
+### **3. Web Rendering and Browser Engine Research**
+
+Understanding how browsers interpret, process, and display modern web content is a central research objective.
+
+Areas of exploration include:
+
+- HTML document parsing and browser rendering.
+- Document Object Model (DOM) and CSS Object Model (CSSOM).
+- CSS processing, layout calculation, painting, and compositing.
+- JavaScript execution and browser runtime environments.
+- Web page loading and rendering lifecycles.
+- Dynamic websites and interactive web applications.
+- Browser rendering engines and web standards.
+- Chromium-based rendering through Qt WebEngine.
+- Browser compatibility and web technology implementation.
+- Frontend execution environments and browser-provided functionality.
+
+### **4. Internet Infrastructure and Network Communication Research**
+
+This area investigates how browsers communicate with remote systems and how information travels across the internet.
+
+Areas of exploration include:
+
+- Internet architecture and network communication principles.
+- Domain Name System (DNS) and domain resolution.
+- Internet Protocol (IP) addressing and routing concepts.
+- Transmission Control Protocol (TCP) and User Datagram Protocol (UDP).
+- HTTP and HTTPS communication.
+- HTTP request-response architecture.
+- HTTP methods, headers, status codes, and redirects.
+- Transport Layer Security (TLS) and encrypted communication.
+- Digital certificates and certificate validation.
+- Web servers, reverse proxies, and application servers.
+- Content Delivery Networks (CDNs) and distributed web infrastructure.
+- Network caching and resource delivery.
+- Browser-server communication and external service integration.
+
+### **5. Browser Behavior and Operational Research**
+
+This research area focuses on understanding how browsers behave during normal browsing activities and how their components respond to user interactions.
+
+Areas of exploration include:
+
+- URL interpretation and address-bar functionality.
+- Search queries and search-engine integration.
+- Navigation history and browsing sessions.
+- Multiple tabs and browser window management.
+- Back, forward, reload, and home navigation.
+- Bookmark creation and management.
+- Download processing and file management.
+- Browser profiles and persistent browsing environments.
+- Keyboard shortcuts and user interaction.
+- Website loading, navigation events, and page transitions.
+- Browser error handling and recovery behavior.
+- Application responsiveness and usability.
+
+### **6. Browser Security and Web Application Security Research**
+
+Browser security is an important area of technical investigation, focusing on the mechanisms and principles used to protect users, applications, and browsing environments.
+
+Areas of exploration include:
+
+- Browser security architecture and Chromium security mechanisms.
+- Browser sandboxing and process isolation concepts.
+- Site isolation and security boundaries.
+- Same-Origin Policy (SOP).
+- Cross-Origin Resource Sharing (CORS).
+- HTTPS and TLS security mechanisms.
+- Digital certificates and certificate validation.
+- Secure cookies and session protection.
+- Authentication and authorization mechanisms.
+- Content Security Policy (CSP).
+- Browser permissions and website security controls.
+- Cross-Site Scripting (XSS).
+- Cross-Site Request Forgery (CSRF).
+- Malicious websites and potentially harmful downloads.
+- Browser vulnerabilities and security update mechanisms.
+- Third-party dependency security.
+- Secure browser configuration and responsible security testing.
+
+### **7. Privacy, Cookies, Sessions, and Browsing Data Research**
+
+This area explores how browsers store, manage, process, and interact with information generated during online activities.
+
+Areas of exploration include:
+
+- HTTP cookies and cookie attributes.
+- First-party and third-party cookies.
+- Session management and persistent sessions.
+- Local Storage and Session Storage.
+- IndexedDB and browser-based databases.
+- Browser cache and resource storage.
+- Browsing history and navigation records.
+- Bookmarks and user-managed browsing information.
+- Website tracking technologies and online identifiers.
+- Privacy controls and browsing-data management.
+- Data retention and deletion mechanisms.
+- Website privacy policies and data collection practices.
+- Relationships between browser privacy and online identity.
+
+### **8. JavaScript, Web APIs, and Digital Application Research**
+
+Modern browsers provide execution environments and APIs that allow websites to deliver interactive applications and communicate with external systems.
+
+Areas of exploration include:
+
+- JavaScript execution and runtime environments.
+- DOM manipulation and event handling.
+- Browser-provided Web APIs.
+- Fetch API and XMLHttpRequest.
+- Asynchronous JavaScript, promises, and async/await.
+- JSON and structured data exchange.
+- REST API communication.
+- Frontend and backend application interaction.
+- Web application architecture.
+- Authentication flows and API access.
+- Client-side application processing.
+- Dynamic content loading and web application behavior.
+
+### **9. Browser Developer Tools and Technical Diagnostics**
+
+This research area focuses on using browser development and diagnostic facilities to investigate web application behavior.
+
+Areas of exploration include:
+
+- Chromium Developer Tools.
+- DOM and element inspection.
+- CSS inspection and debugging.
+- JavaScript debugging.
+- Browser console analysis.
+- Network request inspection.
+- HTTP response and resource analysis.
+- Website loading diagnostics.
+- Browser storage inspection.
+- Performance monitoring.
+- Memory and CPU utilization.
+- Rendering and execution diagnostics.
+- Web application troubleshooting.
+
+### **10. Browser Performance, Compatibility, and Reliability Research**
+
+This area examines how browser applications process web content, manage system resources, and maintain reliable operation.
+
+Areas of exploration include:
+
+- Page-loading performance.
+- Browser memory consumption.
+- CPU utilization and resource allocation.
+- Rendering performance and responsiveness.
+- Browser caching strategies.
+- Resource management and application stability.
+- Website compatibility.
+- Web standards and browser interoperability.
+- Error handling and application recovery.
+- Dependency management and version compatibility.
+- Windows desktop application performance.
+
+### **11. Desktop Application Development and Deployment Research**
+
+Aminbiography Browser 2.0 also serves as a practical environment for exploring desktop software engineering and application distribution.
+
+Areas of exploration include:
+
+- Python application development.
+- PySide6 graphical user interface development.
+- Qt framework architecture.
+- Qt WebEngine integration.
+- Application event handling and signals.
+- Desktop application design and component organization.
+- Configuration and persistent application data.
+- Logging, debugging, and error handling.
+- Python virtual environments and package management.
+- PyInstaller executable generation.
+- Windows 64-bit application packaging.
+- Dependency bundling and application distribution.
+- Git, GitHub, and version control.
+- GitHub Actions and automated Windows builds.
+- Software releases and deployment workflows.
+
+### **12. Search Engines, Websites, and Online Information Systems**
+
+Web browsers serve as gateways to a wide range of digital information and services. This research area explores the relationship between browsers and the platforms accessed through them.
+
+Areas of exploration include:
+
+- Search engine architecture and search workflows.
+- Search queries and information retrieval.
+- Website architecture and web application delivery.
+- Search engine result pages and online information discovery.
+- Web indexing and crawling concepts.
+- Search engine optimization (SEO) fundamentals.
+- Website metadata and structured information.
+- Online content delivery and information accessibility.
+- External website integrations.
+- Digital platforms and online services.
+- Information discovery and the modern web.
+
+### **13. Cloud Computing, APIs, and Distributed Digital Services**
+
+This area explores the interconnected infrastructure that supports modern online applications and services.
+
+Areas of exploration include:
+
+- Cloud computing fundamentals.
+- Client-server architecture.
+- Distributed application systems.
+- Web services and API architecture.
+- RESTful communication.
+- Authentication between applications and services.
+- Cloud-hosted websites and applications.
+- Remote data processing.
+- Distributed infrastructure and service availability.
+- Digital service integration.
+- Relationships between browsers, APIs, servers, and cloud platforms.
+
+### **14. Digital Identity, Authentication, and Online Trust**
+
+Understanding how users and applications establish identity and trust across digital environments is another research objective.
+
+Areas of exploration include:
+
+- Digital identity fundamentals.
+- User authentication and authorization.
+- Login and session management.
+- Identity providers and authentication services.
+- OAuth 2.0 and OpenID Connect concepts.
+- Multi-factor authentication (MFA).
+- Secure credential handling.
+- Website identity and certificate trust.
+- Account security and session protection.
+- Digital privacy and identity management.
+- Trust relationships between users, browsers, and online services.
+
+### **15. The Broader Digital Ecosystem**
+
+The project extends beyond browser development to explore the wider technological environment in which modern browsers operate.
+
+This includes understanding the relationships between:
+
+- Users and digital devices.
+- Operating systems and desktop applications.
+- Browsers and rendering engines.
+- Websites and web applications.
+- Search engines and information discovery systems.
+- DNS infrastructure and internet communication.
+- Networks, routers, servers, and hosting platforms.
+- APIs and distributed digital services.
+- Cloud computing and online infrastructure.
+- Digital identity and authentication systems.
+- Cybersecurity and information protection.
+- Data storage, processing, and transmission.
+- Privacy, tracking, and online trust.
+- Open-source software and web standards.
+
+The objective is to develop a broader technical understanding of how these interconnected systems work together to deliver modern digital experiences.
+
+### **16. Research Methodology**
+
+The project follows an iterative, practical, and exploratory research methodology.
+
+**1. Study and Literature Review**
+
+Explore technical documentation, software architecture, web standards, browser technologies, security principles, and relevant research materials.
+
+**2. Practical Experimentation**
+
+Use Aminbiography Browser 2.0 and its underlying technologies to investigate browser functionality, web rendering, navigation, and data handling.
+
+**3. Technical Inspection**
+
+Use Chromium Developer Tools, debugging facilities, application logs, and available diagnostic mechanisms to inspect browser and website behavior.
+
+**4. Architectural Analysis**
+
+Examine the relationships between application components, browser engines, rendering systems, network communication, and persistent storage.
+
+**5. Development and Implementation**
+
+Experiment with Python, PySide6, Qt WebEngine, and related technologies to understand desktop browser engineering and application development.
+
+**6. Testing and Evaluation**
+
+Observe application behavior, examine technical limitations, investigate compatibility, and evaluate implementation decisions.
+
+**7. Documentation and Knowledge Development**
+
+Document research observations, technical findings, development activities, architectural decisions, and opportunities for further investigation.
+
+### **17. Long-Term Research Direction**
+
+The long-term direction of this project is to progressively expand its technical research scope and develop a deeper understanding of browser engineering and the modern digital environment.
+
+Potential future research and development areas include:
+
+- Advanced browser architecture and process management.
+- Browser security and privacy mechanisms.
+- Website permission management.
+- Advanced browsing-data controls.
+- Improved browser diagnostics and monitoring.
+- Network inspection and traffic analysis.
+- Browser performance evaluation.
+- Advanced developer tools integration.
+- Web API and external service experimentation.
+- Browser extension architecture and integration concepts.
+- Automated browser testing.
+- Accessibility and usability improvements.
+- Application reliability and deployment engineering.
+- Cross-platform desktop application research.
+- Advanced web technologies and browser standards.
+
+These are research and development directions, not commitments that these capabilities are already available in the current release.
+
+### **18. Research Philosophy and Project Disclaimer**
+
+Aminbiography Browser 2.0 is an independently developed learning, experimentation, and research project.
+
+The central philosophy is to learn by building, understand by inspecting, investigate by experimenting, and improve through continuous technical research.
+
+The project is intended primarily for personal research and educational exploration. It does not claim to replace established commercial browsers, independently implement the Chromium rendering engine, or provide every security and privacy capability available in mature production browsers.
+
+The research topics described in this section represent the broader objectives of the repository. They should not be interpreted as a statement that every listed technology, mechanism, or capability is currently implemented in the application.
+
+The current browser is built using Python, PySide6, and Qt WebEngine, which incorporates Chromium-based web rendering functionality.
+
+**The ultimate objective is to explore and understand the technologies, architectures, communication mechanisms, security principles, and interconnected systems that power modern web browsers and the broader digital ecosystem.**
+
+---
+
 # Project Overview
 
 ## About Aminbiography Browser 2.0
@@ -659,7 +1027,9 @@ https://github.com/aminbiography/exe-Browser-by-Amein/issues
 
 **Project:** Aminbiography Browser 2.0
 
-**Developer:** aminbiography
+**Application:** `aminbiography-browser.exe`
+
+**Developer:** Mohammad Aminul Islam (@aminbiography)
 
 **Copyright:** © 2026 aminbiography. All rights reserved, subject to applicable third-party licenses.
 
@@ -676,7 +1046,7 @@ Feedback, suggestions, and contributions are welcome.
 
 If you find this project useful, consider giving the repository a ⭐ Star.
 
-**Thank you for exploring Aminbiography Browser 2.0!**
+**Thank you for exploring Aminbiography Browser 2.0**
 
 ---
 
