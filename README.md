@@ -350,7 +350,7 @@ Want to explore the source code, modify the application, or build your own versi
 
 **GitHub Repository:**
 
-https://github.com/aminbiography/aminbiography-browser
+https://github.com/aminbiography/exe-Browser-by-Amein
 
 ## 1. Technologies Used
 
