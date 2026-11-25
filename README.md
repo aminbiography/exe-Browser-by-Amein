@@ -672,7 +672,7 @@ Feedback, suggestions, and contributions are welcome.
 
 - **Download Latest Release:** [v2.0](https://github.com/aminbiography/exe-Browser-by-Amein/releases/tag/v2.0)
 - **Source Code:** [GitHub Repository](https://github.com/aminbiography/exe-Browser-by-Amein)
-- **Report Issues:** [GitHub Issues](https://github.com/aminbiography/exe-Browser-by-Amein/issues)
+- **Report Issues:** [Create a New Issue](https://github.com/aminbiography/exe-Browser-by-Amein/issues/new)
 
 If you find this project useful, consider giving the repository a ⭐ Star.
 
