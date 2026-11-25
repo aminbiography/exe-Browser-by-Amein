@@ -107,7 +107,7 @@ Aminbiography Browser 2.0 should launch.
 
 ### **1. Project Objective**
 
-The primary objective of **Aminbiography Browser 2.0** is to explore, study, understand, and experiment with the technologies, architectures, mechanisms, and operational principles behind modern web browsers and the broader digital ecosystem.
+The primary objective of **Aminbiography Browser 2.0** is to research, understand, and experiment with the technologies, architectures, mechanisms, and operational principles behind modern web browsers and the broader digital ecosystem.
 
 This repository represents an independent, self-directed research and development initiative established for personal technical research, practical experimentation, architectural exploration, and continuous learning.
 
