@@ -10,9 +10,9 @@ Simply download the ZIP file, extract it, and double-click `aminbiography-browse
 - Designed for Windows 10/11 (64-bit).
 - No additional installation dependencies required for end users.
 
-**Security note:** Download Aminbiography Browser 2.0 only from the official [GitHub Releases page](https://github.com/aminbiography/aminbiography-browser/releases). Windows Defender SmartScreen may display an unfamiliar-app warning because this is a newly published application without an established reputation. Review the warning and verify the download before deciding whether to run it.
+**Security note:** Download Aminbiography Browser 2.0 only from the official [GitHub Releases page](https://github.com/aminbiography/exe-Browser-by-Amein/releases). Windows Defender SmartScreen may display an unfamiliar-app warning because this is a newly published application without an established reputation. Review the warning and verify the download before deciding whether to run it.
 
-**Download:** [aminbiography-browser.exe](https://github.com/aminbiography/aminbiography-browser/releases/download/v2.0/aminbiography-browser.zip) 
+**Download:** [aminbiography-browser.exe](https://github.com/aminbiography/exe-Browser-by-Amein/releases/download/v2.0/aminbiography-browser.zip) 
 
 **Platform:** Windows 10/11 (64-bit)
 
@@ -28,7 +28,7 @@ Follow these steps to install and launch Aminbiography Browser 2.0.
 
 Click the direct download link:
 
- **Download:** [**aminbiography-browser.zip**](https://github.com/aminbiography/aminbiography-browser/releases/download/v2.0/aminbiography-browser.zip)
+ **Download:** [**aminbiography-browser.zip**](https://github.com/aminbiography/exe-Browser-by-Amein/releases/download/v2.0/aminbiography-browser.zip)
 
 ### Step 2 — Extract the ZIP File
 
@@ -402,7 +402,7 @@ Expected output:
 Clone the repository:
 
 ```powershell
-git clone https://github.com/aminbiography/aminbiography-browser.git
+git clone https://github.com/aminbiography/exe-Browser-by-Amein.git
 cd aminbiography-browser
 ```
 
@@ -475,7 +475,7 @@ The workflow can automatically build a Windows x64 executable.
 3. Run the workflow or push changes to the `main` branch.
 4. Wait for the workflow to complete successfully.
 5. Download the generated `aminbiography-windows-x64` artifact.
-6. Extract the artifact and run `aminbiography Browser.exe`.
+6. Extract the artifact and run `aminbiography-browser.exe`.
 
 The output is a portable PyInstaller one-folder application.
 
@@ -650,10 +650,10 @@ Users are responsible for complying with applicable terms and policies when acce
 For questions concerning Aminbiography Browser, its original source code, project documentation, copyright, or licensing, please contact the developer through the official GitHub repository.
 
 **Official GitHub Repository:**
-https://github.com/aminbiography/aminbiography-browser
+https://github.com/aminbiography/exe-Browser-by-Amein
 
 **GitHub Issues:**
-https://github.com/aminbiography/aminbiography-browser/issues
+https://github.com/aminbiography/exe-Browser-by-Amein/issues
 
 ---
 
@@ -670,9 +670,9 @@ https://github.com/aminbiography/aminbiography-browser/issues
 Feedback, suggestions, and contributions are welcome.
 
 
-- **Download Latest Release:** [v2.0](https://github.com/aminbiography/aminbiography-browser/releases/tag/v2.0)
-- **Source Code:** [GitHub Repository](https://github.com/aminbiography/aminbiography-browser)
-- **Report Issues:** [GitHub Issues](https://github.com/aminbiography/aminbiography-browser/issues)
+- **Download Latest Release:** [v2.0](https://github.com/aminbiography/exe-Browser-by-Amein/releases/tag/v2.0)
+- **Source Code:** [GitHub Repository](https://github.com/aminbiography/exe-Browser-by-Amein)
+- **Report Issues:** [GitHub Issues](https://github.com/aminbiography/exe-Browser-by-Amein/issues)
 
 If you find this project useful, consider giving the repository a ⭐ Star.
 
