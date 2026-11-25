@@ -1,0 +1,5 @@
+aminbiography
+
+Application name: aminbiography
+Executable name: aminbiography.exe
+Product: aminbiography Browser 2.0
