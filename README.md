@@ -1,4 +1,4 @@
-# Aminbiography Browser 2.0     
+# Aminbiography Browser 2.0       
 
 **No traditional installation required**
 
